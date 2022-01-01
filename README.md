@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biku Shah
 - 👀 I’m very much interested in Cloud Computing,Networking,Database,Blockchain,Virtualization,Containerization,API.
-- 🌱 I’m currently learning cloud computing and Blockchain stuff.
+- 🌱 I’m currently learning cloud computing and Networking stuff.
 - 💞️ I’m looking to collaborate and work on deployment stuff in AWS and to get hired by the Company that would help to grow my Skills.
 -    You can contact me at bikulinuxer@gmail.com and linkedin/bikushah
 
